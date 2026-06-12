@@ -6,4 +6,4 @@ What makes it especially powerful is how it works in tandem with ActiveGuardNet,
 
 In practice, this means organizations and individuals benefit from a shield that doesn’t just react to attacks but anticipates them. ActiveGuardNet ensures protection in isolated environments, while Cerebral ensures that once connected, systems are plugged into a vast, continuously updated intelligence network capable of recognizing malicious behavior with precision.
 
-Both ActiveGuardNet and Cybersecurity AI Cerebral are designed by Zeng Han-Jun
+Both ActiveGuardNet and Cybersecurity AI Cerebral are designed by Zeng Han-Jun.
